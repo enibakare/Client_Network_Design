@@ -22,7 +22,7 @@ Designed and implemented a scalable Local Area Network (LAN) for an advertising 
 ## Configuration Highlights
 - Router configuration with DHCP and RIP (Floor 1).
 - Wireless access point setup for Office A.
-- [Add embedded images here, e.g., `![Network Diagram](network_diagram_floor1.png)`]
+- **images shown in attached report**
 
 ## Full Report
 For detailed information, see the [full report](Report_for_Advertising_Client.pdf).
