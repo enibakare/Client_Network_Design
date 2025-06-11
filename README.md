@@ -25,7 +25,7 @@ Designed and implemented a scalable Local Area Network (LAN) for an advertising 
 **images shown in attached report**
 
 ## Full Report
-For detailed information, see the [full report](Report_for_Advertising_Client.pdf).
+For detailed information, see the [full report]Report for Advertising Client.pdf.
 
 ## Lessons Learned
 - Gained proficiency in network simulation with Cisco Packet Tracer.
