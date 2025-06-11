@@ -24,9 +24,6 @@ Designed and implemented a scalable Local Area Network (LAN) for an advertising 
 - Wireless access point setup for Office A.
 **images shown in attached report**
 
-## Full Report
-For detailed information, see the [full report]"Report for Advertising Client.pdf".
-
 ## Lessons Learned
 - Gained proficiency in network simulation with Cisco Packet Tracer.
 - Deepened understanding of CIDR and its role in scalability.
